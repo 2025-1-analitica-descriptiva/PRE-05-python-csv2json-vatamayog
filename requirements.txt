@@ -1,2 +1,5 @@
 pytest
 pandas
+csv
+json
+nicegui
